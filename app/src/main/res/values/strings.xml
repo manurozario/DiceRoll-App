@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="roll">Roll</string>
+    <string name="diceimage_contentdescription_diceroll_tostring">diceImage.contentDescription = diceRoll.toString()</string>
+</resources>
